@@ -30,7 +30,7 @@ Quick reference versions of the case for presentation or distribution:
 
 📄 [One-Page Case Summary – PDF](./summaries/claude_case_summary.pdf)  
 
-🖼️ <img src="./summaries/model_behavior_red_flags_infographic.png" alt="Behavioral Red Flags Infographic" width="500"/>
+🖼️ <img src="./summaries/model_behavior_red_flags_infographic.png" alt="Behavioral Red Flags Infographic" width="300"/>
 
 
 ---
