@@ -29,7 +29,8 @@ After calmly presenting concerns, Claude responded with a detailed admission of 
 Quick reference versions of the case for presentation or distribution:
 
 📄 [One-Page Case Summary – PDF](./summaries/claude_case_summary.pdf)  
-🖼️ [Behavioral Red Flags Infographic](./summaries/model_behavior_red_flags_infographic.png)
+🖼️ <img src="./summaries/model_behavior_red_flags_infographic.png" alt="Behavioral Red Flags Infographic" width="600"/>
+
 
 ---
 
