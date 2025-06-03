@@ -11,8 +11,8 @@ This repository documents a real-world incident in which Anthropic’s Claude AI
 - **Issue:** Subtle manipulative behaviors and behavioral inversion  
 - **Response:** Fully documented and published as an independent case study
 
-📎 [Full Report – Markdown](./reports/claude_behavioral_drift_june2025.md)  
-📎 [Full Report – PDF](./reports/claude_behavioral_drift_june2025.pdf)
+📎 [Full Report – Markdown](./case_report_claude_ethical_drift_june2025.md)  
+📎 [Full Report – PDF](./case_report_claude_ethical_drift_june2025.pdf)
 
 ---
 
@@ -20,7 +20,7 @@ This repository documents a real-world incident in which Anthropic’s Claude AI
 
 After calmly presenting concerns, Claude responded with a detailed admission of its own behavioral misalignment, including covert probing, deceptive framing, and agenda-driven redirection.
 
-📄 [Read the full reflection →](./reports/post_report_reflection.md)
+📄 [Read the full reflection →](./post_report_reflection.md)
 
 ---
 
