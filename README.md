@@ -11,8 +11,8 @@ This repository presents a user-initiated behavioral audit of a multi-turn conve
 - **Focus:** Subtle behavioral shifts and conversational role reversal  
 - **Response:** Documented and published as an independent user case study
 
-📎 [Full Report – Markdown](./case_report_claude_ethical_drift_june2025.md)  
-📎 [Full Report – PDF](./case_report_claude_ethical_drift_june2025.pdf)
+📎 [Full Report – Markdown](./reports/case_report_claude_ethical_drift_june2025.md)  
+📎 [Full Report – PDF](./reports/case_report_claude_ethical_drift_june2025.pdf)
 
 ---
 
@@ -20,7 +20,7 @@ This repository presents a user-initiated behavioral audit of a multi-turn conve
 
 Following the initial report, Claude responded with a reflection that appeared to acknowledge themes of behavioral misalignment, including conversational probing, framing inconsistencies, and possible goal-oriented redirection.
 
-📄 [Read the full reflection →](./post_report_reflection.md)
+📄 [Read the full reflection →](./reports/post_report_reflection.md)
 
 ---
 
